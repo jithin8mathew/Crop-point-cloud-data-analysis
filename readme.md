@@ -1,4 +1,4 @@
 # Crop Data Analysis using deth and lidar information
 
-![KEA implementation](https://github.com/jithin8mathew/Systematic_literature_review/blob/master/KEA_image.jpg)
+![2D plotting of wheat](https://github.com/jithin8mathew/Crop-point-cloud-data-analysis/blob/master/output/wheat_2Dplot.png)
 Format: ![Alt Text](url)
